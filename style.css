@@ -1,0 +1,61 @@
+body{background: #EEAECA;
+    background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);;
+width: 100%; height: 100%;}
+
+*{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+
+img{border-radius: 20px;}
+
+#pantalla-dividida{display: flex;}
+
+.elemento-rigth{text-align: center;}
+
+
+
+
+.left-side{width: 50%; height: 100%;}
+
+.rigth-side{width: 50%; height: 100vh;
+            margin: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+ 
+  
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
